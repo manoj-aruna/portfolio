@@ -1,7 +1,7 @@
 # portfolio
 
-##Work Experince
+## Work Experince
 Lecturer
 
-##Education
+## Education
 M.Sc
